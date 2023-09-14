@@ -220,3 +220,23 @@ textarea {
   -webkit-appearance: button; /* 1 */
   font: inherit; /* 2 */
 }
+
+#birthgroup input, label {
+  display: block;
+  position: relative;
+}
+#phonegroup input, label {
+  display: block;
+  position: relative;
+}
+#emailgroup input, label {
+  display: block;
+  position: relative;
+}
+body {
+  background-color: #d4efdf
+}
+#submit::before {
+  content: \a;
+  white-space: pre;
+}
