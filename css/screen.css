@@ -8,26 +8,22 @@ h1 {
 }
 #birthgroup input, label {
   padding: 10px;
-  width: 100%;
 }
 #phonegroup input, label {
   padding: 10px;
-  width: 100%;
 }
 #emailgroup input, label {
   padding: 10px;
-  width: 100%;
 }
 #submit::before {
   content: \a;
   white-space: pre;
   padding: 10px;
-  background-color: #A3D2B6;
 }
 #info {
   border: 0.5em solid black;
   box-sizing: border-box;
-  width: 90%;
+  width: 80%;
   margin: auto;
   background-color: #A3D2B6;
   display: flex;
