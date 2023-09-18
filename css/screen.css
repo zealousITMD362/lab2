@@ -9,24 +9,20 @@ h1 {
 #birthgroup input, label {
   padding: 10px;
   width: 100%;
-  margin: 5px auto;
 }
 #phonegroup input, label {
   padding: 10px;
   width: 100%;
-  margin: 5px auto;
 }
 #emailgroup input, label {
   padding: 10px;
   width: 100%;
-  margin: 5px auto;
 }
 #submit::before {
   content: \a;
   white-space: pre;
   padding: 10px;
   background-color: #A3D2B6;
-  margin: 5px auto;
 }
 #info {
   border: 0.5em solid black;
