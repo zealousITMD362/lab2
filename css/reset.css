@@ -221,25 +221,3 @@ textarea {
   font: inherit; /* 2 */
 }
 
-#birthgroup input, label {
-  display: block;
-  position: relative;
-  padding: 5%;
-}
-#phonegroup input, label {
-  display: block;
-  position: relative;
-  padding: 5%;
-}
-#emailgroup input, label {
-  display: block;
-  position: relative;
-  padding: 5%;
-}
-body {
-  background-color: #d4efdf
-}
-#submit::before {
-  content: \a;
-  white-space: pre;
-}
