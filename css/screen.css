@@ -16,7 +16,6 @@ h1 {
   padding: 10px;
 }
 #submit::before {
-  content: \a;
   white-space: pre;
   padding: 10px;
 }
